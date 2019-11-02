@@ -1,0 +1,6 @@
+converter:
+  build:
+    image: converter
+    dockerfile: Dockerfile
+
+  # build: .
